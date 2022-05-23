@@ -6,13 +6,11 @@
     < Front-End Developer >
 </h3><br>
    
-    
-- 🦉🎓 En este momento me encuentro realizando un bootcamp de desarrollo web en Laboratoria, donde tengo previsto terminar a finales del mes de junio/22. 
+- 🦉🎓 En este momento me encuentro realizando un bootcamp de desarrollo web en <Laboratoria>, donde tengo previsto terminar a finales del mes de junio/22. 
 - 👩‍🔬 Tengo formación como Licenciada en Química
 - ✨ Me gusta generar impacto en las personas en términos de crear motivación y curiosidad, de colaborar en proyectos que ayuden al avance de propositos personales o empresariales, vi en la tecnología el medio para lograrlo; me gusta mucho  el ejercicio de compartir información, trabajar de forma colaborativa y el aprendizaje continuo.
-- 👩‍💻 Por el momento he trabajado en proyectos en un entonro simulado de trabajo real haciendo uso metodologías ágiles y tecnologías como Javascript, HTML, CSS, GitHub, Firebase, Figma, Node.js y actualmente desarrollo un proyecto con React. 
+- 👩‍💻 Por el momento he trabajado en proyectos, en un entorno simulado de trabajo real haciendo uso metodologías ágiles y tecnologías como Javascript, HTML, CSS, GitHub, Firebase, Figma, Node.js y actualmente desarrollo un proyecto con React. 
 
-  
 ------
 
 ### Technical Skills
