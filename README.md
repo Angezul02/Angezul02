@@ -6,13 +6,13 @@
     < Front-End Developer >
 </h3><br>
 
-    <p>
+    
 - Finalice en el mes de Junio/2022 un Bootcamp de Desarrollo web con Laboratoria
 - ✨ Me gusta generar impacto en las personas en términos de crear motivación y curiosidad, de colaborar en proyectos que ayuden al avance de propositos personales o empresariales, vi en la tecnología el medio para lograrlo; me gusta mucho  el ejercicio de compartir información, trabajar de forma colaborativa y el aprendizaje continuo.
 - 👩‍💻 He trabajado en proyectos, en un entorno simulado de trabajo real haciendo uso metodologías ágiles y tecnologías como Javascript, HTML, CSS, GitHub, Firebase, Figma, Node.js y actualmente desarrollo un proyecto con React. 
 - He trabajado con  Vitex IO y React-native
 - Continuo estudiando React e inicie un curso de UX con google 
-    </p>
+    
 
 ------
 
